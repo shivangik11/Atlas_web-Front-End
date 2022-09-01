@@ -32,3 +32,12 @@ For the homepage page, I want to use black and white to create great color contr
 
 ![Web 1366 – 2](https://user-images.githubusercontent.com/89596201/187927965-e99d4c6e-7df8-4e93-ab9d-8c9e9a1d3bb7.png)
 
+![Web 1366 – 1](https://user-images.githubusercontent.com/89596201/187940064-9a8e616f-e283-4e01-8355-f846f060add6.png)
+
+### Responsive Design
+
+![iPhone 13, 12 Pro – 1](https://user-images.githubusercontent.com/89596201/187940066-499cc7e9-ddc1-47f5-8116-fddf9ed7df52.png)
+
+![iPhone 13, 12 Pro – 2](https://user-images.githubusercontent.com/89596201/187940070-248cd856-2744-4ed9-8268-3c332c585300.png)
+
+
