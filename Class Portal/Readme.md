@@ -5,6 +5,8 @@
 I'm considering making my class portal into a class portfolio that exhibits my work by documenting the process, ideas, sketches, and concepts behind the projects. I want to make something that I can utilize to launch my professional career as a product or user experience designer. The primary objective is to paint a clear picture of my thinking process. I'd want to work according to the current needs and specifications. The class portfolio should demonstrate my strong hands for technician skills as well as critical thinking abilities. 
 I aim to be responsive and simply available from all conceivable displays; my portfolio should reflect my personality and ability to work with bright and vivid colors and features. 
 The landing page should have a brief introduction to each project, and clicking on any of them will take you to an in-depth look at the project, including the process, code, wireframes, high-fidelity prototypes, and concepts.
+![My project](https://user-images.githubusercontent.com/89596201/187860482-ee60259b-44be-4054-a504-ddfa4a9eb4a8.png)
+
 
 
 
