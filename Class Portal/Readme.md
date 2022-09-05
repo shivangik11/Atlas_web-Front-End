@@ -27,6 +27,7 @@ For the homepage page, I want to use black and white to create great color contr
 ![Web 1366 – 4](https://user-images.githubusercontent.com/89596201/187859287-b45376bf-2489-482c-bcdd-902e42110c1e.png)
 
 ### XD Mockups
+The brief of each and every project has been displayed in the landing page and detailes are inside every section. Every project has been detailed as per the type of work like code, process, concept and final designs. 
 
 ![Web 1366 – 1](https://user-images.githubusercontent.com/89596201/187927959-400acb79-0709-44c2-8f9a-15d6afe44e16.png)
 
