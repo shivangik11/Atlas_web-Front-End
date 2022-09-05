@@ -35,7 +35,7 @@ The brief of each and every project has been displayed in the landing page and d
 
 ![Web 1366 – 1](https://user-images.githubusercontent.com/89596201/187940064-9a8e616f-e283-4e01-8355-f846f060add6.png)
 
-### Responsive Design
+### Responsive Design/ Mobile Screens
 
 ![iPhone 13, 12 Pro – 1](https://user-images.githubusercontent.com/89596201/187940066-499cc7e9-ddc1-47f5-8116-fddf9ed7df52.png)
 
