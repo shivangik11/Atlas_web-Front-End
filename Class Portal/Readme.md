@@ -26,19 +26,28 @@ For the homepage page, I want to use black and white to create great color contr
 
 ![Web 1366 – 4](https://user-images.githubusercontent.com/89596201/187859287-b45376bf-2489-482c-bcdd-902e42110c1e.png)
 
-### XD Mockups
+## XD Mockups
 The brief of each and every project has been displayed in the landing page and detailes are inside every section. Every project has been detailed as per the type of work like code, process, concept and final designs. 
 
-![Web 1366 – 1](https://user-images.githubusercontent.com/89596201/187927959-400acb79-0709-44c2-8f9a-15d6afe44e16.png)
+![Web 1366 – 2](https://user-images.githubusercontent.com/89596201/188778359-b0156805-14bb-4ab8-b6b4-348a49bfbf56.png)
 
-![Web 1366 – 2](https://user-images.githubusercontent.com/89596201/187927965-e99d4c6e-7df8-4e93-ab9d-8c9e9a1d3bb7.png)
+![Web 1366 – 5](https://user-images.githubusercontent.com/89596201/188778365-c632eea6-a647-44f0-8c2f-628a526af79e.png)
 
-![Web 1366 – 1](https://user-images.githubusercontent.com/89596201/187940064-9a8e616f-e283-4e01-8355-f846f060add6.png)
+![Web 1366 – 3](https://user-images.githubusercontent.com/89596201/188778361-7abb9686-3209-4e72-8886-3ca57b9f4189.png)
 
-### Responsive Design/ Mobile Screens
+![Web 1366 – 4](https://user-images.githubusercontent.com/89596201/188778363-5c670a10-6799-4c9d-a2ee-a33389aef6e3.png)
 
-![iPhone 13, 12 Pro – 1](https://user-images.githubusercontent.com/89596201/187940066-499cc7e9-ddc1-47f5-8116-fddf9ed7df52.png)
+![Web 1366 – 1](https://user-images.githubusercontent.com/89596201/188778351-4bc1f55c-9019-4d35-942e-4c4f47dc2f4c.png)
 
-![iPhone 13, 12 Pro – 2](https://user-images.githubusercontent.com/89596201/187940070-248cd856-2744-4ed9-8268-3c332c585300.png)
+## Responsive Design/ Mobile Screens
+
+![iPhone 13, 12 Pro – 2](https://user-images.githubusercontent.com/89596201/188778578-166b162f-09bf-4013-a255-167554f73fed.png)
+
+![iPhone 13, 12 Pro – 3](https://user-images.githubusercontent.com/89596201/188778581-b1bd06f8-2ac8-4a87-b752-03dd768042bb.png)
+
+![iPhone 13, 12 Pro – 4](https://user-images.githubusercontent.com/89596201/188778582-142e151c-2c88-4e1f-bd81-8105afc0b7df.png)
+
+
+
 
 
