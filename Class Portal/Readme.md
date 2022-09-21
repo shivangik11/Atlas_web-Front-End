@@ -49,5 +49,31 @@ The brief of each and every project has been displayed in the landing page and d
 
 
 
+# Milestone 2
+
+For milestone 2, I began by learning the fundamentals of HTML and CSS, as well as how to construct a website and all potential functions and style inputs. I began by mapping out how to connect different sections and how the website should look. It took me a while to understand the linkages between the pages and how to connect the pages to one other. 
+I began by creating the first page in HTML utilizing all of the functions I had previously learnt. I was very meticulous about the formatting and size of each block. I was able to put everything pixel to pixel with the help of Adobe XD.
+
+## Final coded Class Portal
+
+![Screenshot 2022-09-21 at 3 54 22 PM](https://user-images.githubusercontent.com/89596201/191617678-9a928827-9284-461c-a321-e61a1914cc3b.png)
+
+![Screenshot 2022-09-21 at 3 55 31 PM](https://user-images.githubusercontent.com/89596201/191617681-d34f855b-4fbb-4897-a257-08a24720cf18.png)
+
+![Screenshot 2022-09-21 at 3 56 04 PM](https://user-images.githubusercontent.com/89596201/191617683-c8b44b40-fada-4ae2-9876-0ec79a2368d7.png)
+
+![Screenshot 2022-09-21 at 3 56 17 PM](https://user-images.githubusercontent.com/89596201/191617686-a3686202-fb04-49e4-bc45-28cae3876d5b.png)
+
+
+I struggled with the page layout at first, but with the help of a few tutorial videos, I was able to put everything together on the landing page. 
+
+After establishing the HTML for the landing page, I began working on the page's aesthetic. One of my goals was to make it as responsive as possible, so I started using rem and em for styling from the start. I was able to learn lot of things with this assignment which helped in my further assignments.
+
+Link to the class Portal: https://shivangik11.github.io/class-portal/
+
+
+
+
+
 
 
