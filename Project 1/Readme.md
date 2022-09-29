@@ -1,4 +1,6 @@
-# LookBook
+# Milestone 1
+
+##LookBook
 
 Creating a website on your own is a demanding task. So many things to consider, from color combinations to font types, styling fonts, font sizes, image placements, and so on. So here I am, pondering a solution. Creating a webpage that will allow you to customize your webpage immediately and be as creative and interactive as possible. 
 Lookbook is a type of webpage where you can experiment with different colors, fonts, and placements to create your own designer webpage before coding it.
