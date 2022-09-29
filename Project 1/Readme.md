@@ -1,3 +1,4 @@
+
 # Milestone 1
 
 ## LookBook
@@ -8,3 +9,7 @@ Lookbook is a type of webpage where you can experiment with different colors, fo
 Initially, I struggled with designing and creating web pages at the same time. This page would be really useful for anyone who want to explore it while also coding it. 
 
 I want to make the website more interactive so that users may experiment with the various possibilities presented by the page.
+
+![Web 1366 – 6](https://user-images.githubusercontent.com/89596201/193157570-9c32827d-2d4b-4b9d-9285-cfa5964299c8.png)
+
+![Web 1366 – 7](https://user-images.githubusercontent.com/89596201/193157573-c2050b52-b2c8-4209-99b6-40a4e9a20d62.png)
