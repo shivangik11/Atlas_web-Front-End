@@ -16,9 +16,9 @@ I want to make the website more interactive so that users may experiment with th
 
 # Milestone 2
 
-for mielstone I am working on the working prototype of the lookbook, i have been working on the xd software which helps me to understand the design perspective of the page and laverage me with the before hand understanding of the dimensions of the page which is pixel perfect.
-As per the given feedback I have incorporated the feature of providing user with the set examples on the given page. I have created a two page lookbook.
-first oage is going to br where the user can play around with the page within the given options to create a intresting landing page and 2nd page where they can refer given examples and with the help of the that they create a landing page.
+for milestone 2  I am now working on the functioning prototype of the lookbook. In addition to this, I have been working on the xd program, which assists me in comprehending the design viewpoint of the page and provides me with a prior knowledge of the measurements of the page that are pixel perfect. 
+In response to the feedback that was provided, I have added a feature that enables the user to view predefined examples on the page that was provided. I have put up a lookbook that is two pages long. 
+In the first page, users will be able to experiment with the page using the options that have been provided in order to produce an engaging landing page. In the second page, users will be able to refer to examples that have been provided, and with the assistance of those examples, they will create a landing page.
 
 ![Web 1366 – 6](https://user-images.githubusercontent.com/89596201/194770684-79815533-2dbb-4b1c-9e34-01ac07f1fc78.png)
 
