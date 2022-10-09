@@ -14,6 +14,8 @@ I want to make the website more interactive so that users may experiment with th
 
 ![Web 1366 – 7](https://user-images.githubusercontent.com/89596201/193157573-c2050b52-b2c8-4209-99b6-40a4e9a20d62.png)
 
+
+
 # Milestone 2
 
 for milestone 2  I am now working on the functioning prototype of the lookbook. In addition to this, I have been working on the xd program, which assists me in comprehending the design viewpoint of the page and provides me with a prior knowledge of the measurements of the page that are pixel perfect. 
